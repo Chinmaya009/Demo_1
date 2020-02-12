@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 chinmaya
 is
 SE
+=======
+
+>>>>>>> parent of 6b16b59... 1st comm
